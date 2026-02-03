@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "deploy": "node src/deploy-commands.js",
+    "start": "node src/main.js"
+  },
   "dependencies": {
     "discord.js": "^14.25.1"
   }
